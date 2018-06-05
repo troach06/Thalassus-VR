@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: eaed78db42cb56e4c867ef3d1450f1c5
+  - enabled: 1
+    path: Assets/Scenes/GreeceVideo.unity
+    guid: 0c769c740bd598d44ba16d42942ed5b7
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: d8e713497ad945a4ab5525de40a7afb4
